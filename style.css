@@ -1,0 +1,35 @@
+
+  body {
+  background-color: bisque;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+
+  }
+
+  #topo { 
+  background-color:indianred;
+  text-align: center;
+  color: aliceblue;
+
+  }
+
+  h2 
+  {
+  font-size: 20px;
+  background-color: lightcoral;
+  color: aliceblue;
+  }
+
+  h3
+  {
+  font-size: 20px;
+  background-color: lightcoral;
+  color: aliceblue;
+  }
+
+  #apresent
+  {
+  text-align: center;
+  }
+    
+    
